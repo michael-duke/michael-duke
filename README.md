@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @michael-duke Junior Developer striving to be a Full stack Mobile/Web Developer.
-- 👀 I’m interested in ...Coding, Front-end Backend, Gaming
-- 🌱 I’m currently learning Responsive Web Design, JavaScipt, React, React-Native, Node.js, GraphQL, Laravel, Git, PHP, Python and AWS Amplify ...
-- 💞️ I’m looking to collaborate on any project working with the above mentioned Tools
-- 📫 How to reach me michael.21duke@gmail.com or WhatsApp (+251-929287463).
+- :wave: Hi, I’m Michael Mesfin a Junior Developer striving to be a Full stack Web/Mobile Developer.
+- :star: I’m interested in ...Coding :computer:, reading non-fictional books :blue_book:, Ping Pong :tennis: (table tennis..)
+-  :snowflake: I’m currently learning Responsive Web Design, JavaScipt, React, React-Native, Node.js, GraphQL, Git, PHP, Python and AWS Amplify ...
+- :ok_hand: I’m looking to collaborate on any project working with the above mentioned Tools
+- :email: How to reach me michael.21duke@gmail.com.
 
 <!---
 michael-duke/michael-duke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
