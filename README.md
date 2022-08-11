@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Mesfin</h1>
-<h3 align="center">A passionate remote Fullstack web developer</h3>
+<h3 align="center">A passionate Remote Fullstack web developer</h3>
 
 
 - :wave: Hi, I’m Michael Mesfin a Junior Developer striving to be a Full stack Web/Mobile Developer.
