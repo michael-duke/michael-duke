@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael Mesfin</h1>
-<h3 align="center">A passionate Remote Fullstack web developer</h3>
+<h3 align="center">A Passionate Remote Fullstack web developer</h3>
 
 
-- :wave: Hi, I’m Michael Mesfin a Junior Developer striving to be a Full stack Web/Mobile Developer.
+- :wave: Hi agian :smile:, I’m Michael Mesfin a Junior Developer striving to be a Full stack Web/Mobile Developer.
 - :star: I’m interested in ...Coding :computer:, reading non-fictional books :blue_book:, Ping Pong :tennis: (table tennis..)
 -  :snowflake: I’m currently learning React, React-Native, Node.js, GraphQL, Python, Ruby, Ruby on Rails and AWS Amplify ...
 - :ok_hand: I’m looking to collaborate on any project working with the above mentioned Tools
