@@ -11,7 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michael-21-duke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-21-duke" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/michael_21duke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="michael_21duke" height="30" width="40" /></a>
+<a href="https://twitter.com/MikeDuke21" target="blank"><img align="center" src="https://user-images.githubusercontent.com/84629565/184330296-a0506b61-296b-4758-adcb-50b7972c8131.png" alt=MikeDuke21" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/michael_21duke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="michael_21duke" height="40" width="40" /></a>
 <a href="https://medium.com/@michael.21duke" target="blank"><img align="center" src="https://user-images.githubusercontent.com/84629565/184156357-8c079dc9-a6e3-4ece-a1f8-5c9da2dc3254.png" alt="@michael.21duke" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/echo21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="echo21" height="30" width="40" /></a>
 </p>
