@@ -6,6 +6,7 @@
 - :snowflake: I’m currently learning TypeScript, React-Native, Node.js, GraphQL, and AWS Amplify ...
 - :ok_hand: I’m looking to collaborate on any project working with the below mentioned Tools
 - :email: How to reach me michael.21duke@gmail.com, 
+- ✅ Check out my <a rel="noopener" href="https://www.linkedin.com/in/michael-21-duke/" target="_blank"> Portfolio and Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 
