@@ -8,7 +8,7 @@
 - :email: How to reach me michael.21duke@gmail.com, 
 - ✅ Check out my <a rel="noopener" href="https://www.linkedin.com/in/michael-21-duke/" target="_blank"> Portfolio and Resume </a>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 
 <p align="left">
   <a rel="noopener"
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
   
 [![My Skills](https://skillicons.dev/icons?i=react,redux,jest,webpack,js,html,css,tailwind)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,ruby,rails,nodejs,postgres,mysql,php,laravel,vite,netlify,heroku)](https://skillicons.dev)
