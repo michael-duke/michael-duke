@@ -34,8 +34,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=michael-duke&theme=javascript&border_radius=4.6)](https://git.io/streak-stats)
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-duke&count_private=true&theme=dark&show_icons=true&bg_color=F6F8FA0F&title_color=00DB49&text_color=8A8FA0&icon_color=FFBC00&border_color=AFB8C175)
-
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-duke&show_icons=true&theme=graywhite)
 <!---
 michael-duke/michael-duke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
