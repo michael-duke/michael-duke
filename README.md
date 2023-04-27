@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Remote Full-Stack Web developer</h3>
 
 
-- :star: I’m interested in ...Coding :computer:, reading non-fictional books :blue_book:, Ping Pong :tennis: (table tennis..)
+- :star: I’m interested in ...Coding :computer:, Ping Pong :tennis: (table tennis..)
 - :snowflake: I’m currently learning TypeScript, React-Native, Node.js, GraphQL, and AWS Amplify ...
 - :ok_hand: I’m looking to collaborate on any project working with the below mentioned Tools
 - :email: How to reach me michael.21duke@gmail.com, 
