@@ -12,7 +12,7 @@
 
 <p align="left">
   <a rel="noopener"
-     href="https://www.linkedin.com/in/michael-21-duke/"
+     href="https://www.linkedin.com/in/michael-mesfin-haileyesus/"
      target="_blank"
    >
     <img src="https://skillicons.dev/icons?i=linkedin" />
