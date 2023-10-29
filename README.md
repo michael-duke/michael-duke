@@ -32,7 +32,8 @@
 
 ## Git hub stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=michael-duke&theme=javascript&border_radius=4.6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=michael-duke&theme=javascript&border_radius=4.6)](https://git.io/streak-stats)
+
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-duke&show_icons=true&theme=graywhite)
 
