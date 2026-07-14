@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Mesfin</h1>
-<h3 align="center">Senior Full-Stack Engineer & Founder of <a rel="noopener" href="https://www.kaminohq.com/" target="_bank">Kamino Systems</a>🪐⛈️</h3>
+<h3 align="center">Senior Full-Stack Engineer & Founder of <a rel="noopener" href="https://www.kaminohq.com/" target="_blank">Kamino Systems</a>🪐⛈️</h3>
 
 - 🚀 **Current Focus:** Building high-performance web applications, scalable Next.js architectures, and fluid interactive user experiences.
 - 💻 **Core Tech:** Specialized in React, TypeScript, Next.js (App Router), Supabase, and Node.js.
