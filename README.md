@@ -1,36 +1,29 @@
 <h1 align="center">Hi 👋, I'm Michael Mesfin</h1>
-<h3 align="center">A Passionate Remote Full-Stack Web developer</h3>
+<h3 align="center">Senior Full-Stack Engineer & Founder of Kamino Systems</h3>
 
-
-- :star: I’m interested in ...Coding :computer:, Ping Pong :tennis: (table tennis..)
-- :snowflake: I’m currently learning TypeScript, React-Native, GraphQL, and AWS Amplify ...
-- :ok_hand: I’m looking to collaborate on any project working with the below mentioned Tools
-- :email: How to reach me michael.21duke@gmail.com, 
-- ✅ Check out my <a rel="noopener noreferrer" href="https://michael-mesfin-portfolio.netlify.app/" target="_blank"> Portfolio and Resume </a>
+- 🚀 **Current Focus:** Building high-performance web applications, scalable Next.js architectures, and fluid interactive user experiences.
+- 💻 **Core Tech:** Specialized in React, TypeScript, Next.js (App Router), Supabase, and Node.js.
+- 🏓 **Interests:** Coding :computer:, Competitive Gaming :video_game:, and Table Tennis :ping_pong:
+- ✉️ **How to reach me:** michael.21duke@gmail.com
+- 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/michael-mes) | [GitHub](https://github.com/michael-duke)
 
 ## Connect with me:
 
 <p align="left">
-  <a rel="noopener"
-     href="https://www.linkedin.com/in/michael-mesfin-haileyesus/"
-     target="_blank"
-   >
+  <a rel="noopener" href="https://www.linkedin.com/in/michael-mes" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-   <a rel="noopener"
-     href="https://twitter.com/MikeDuke21"
-     target="_blank"
-   >
+  <a rel="noopener" href="https://twitter.com/MikeDuke21" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
 ## Languages and Tools
-  
-[![My Skills](https://skillicons.dev/icons?i=react,redux,jest,webpack,js,html,css,tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,ruby,rails,nodejs,postgres,mysql,php,laravel,vite,netlify,heroku)](https://skillicons.dev)
 
-## Git hub stats
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,js,tailwind,nodejs,supabase,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,php,laravel,mysql,git,docker,githubactions)](https://skillicons.dev)
+
+## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=michael-duke&theme=javascript&border_radius=4.6)](https://git.io/streak-stats)
 
