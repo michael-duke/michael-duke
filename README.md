@@ -13,7 +13,7 @@
   <a rel="noopener" href="https://www.linkedin.com/in/michael-mes" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a rel="noopener" href="https://twitter.com/MikeDuke21" target="_blank">
+  <a rel="noopener" href="https://twitter.com/michael_21duke" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
